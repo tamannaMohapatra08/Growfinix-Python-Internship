@@ -1,0 +1,11 @@
+Name: Rahul Sharma
+Email: rahul@gmail.com
+Destination: Goa
+
+Name: Priya Das
+Email: priya@gmail.com
+Destination: Manali
+
+Name: Amit Kumar
+Email: amit@gmail.com
+Destination: Jaipur
