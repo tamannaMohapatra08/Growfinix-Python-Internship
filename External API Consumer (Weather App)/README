@@ -1,0 +1,3 @@
+## Task 5 - External API Consumer
+
+This project fetches live weather information using a public weather API and displays temperature, humidity, and weather conditions for a given city.
