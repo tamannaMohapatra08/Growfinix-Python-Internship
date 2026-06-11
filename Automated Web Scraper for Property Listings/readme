@@ -1,0 +1,3 @@
+## Task 1 - Automated Web Scraper for Property Listings
+
+This project demonstrates web scraping using Python, Requests, BeautifulSoup, and CSV. The scraped data is extracted from a website and stored in a CSV file for analysis.
