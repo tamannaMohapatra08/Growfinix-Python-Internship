@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ## Task 5-2 - Automated Tour Package Generator
 
 This Python application generates a travel package based on the user's destination and budget. It suggests package type, duration, hotel category, and estimated cost.
+=======
+## Task 5-- Automated Tour Package Generator
+This Python application generates a travel package based on the user's destination and budget. It suggests package type, duration, hotel category, and estimated cost.
+>>>>>>> f17ccea76f1ea294b46f42c464821521cf57bd9a
