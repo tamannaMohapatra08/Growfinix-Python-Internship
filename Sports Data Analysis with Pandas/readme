@@ -1,0 +1,29 @@
+# Task 4 - Sports Data Analysis with Pandas
+
+## Project Description
+This project analyzes IPL match data using Python, Pandas, and Matplotlib. The objective is to calculate team performance statistics, including win rates, and visualize the results using charts and graphs.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+
+## Features
+- Load and analyze IPL match dataset
+- Calculate team win statistics
+- Compute win rate percentage
+- Visualize performance using graphs
+- Generate insights from historical match data
+
+## Project Output
+- Total matches played
+- Total matches won
+- Win rate percentage
+- Performance visualization chart
+
+## How to Run
+
+1. Install required libraries:
+
+```bash
+pip install pandas matplotlib
